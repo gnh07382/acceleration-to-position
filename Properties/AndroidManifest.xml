@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="PhysicsLab.PhysicsLab" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="22" />
+	<uses-permission android:name="android.permission.ACCESS_CHECKIN_PROPERTIES" />
+	<uses-permission android:name="android.permission.HARDWARE_TEST" />
+	<uses-permission android:name="android.permission.SET_TIME" />
+	<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+	<application android:label="PhysicsLab" android:icon="@drawable/Icon"></application>
+</manifest>
