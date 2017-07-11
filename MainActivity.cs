@@ -2,7 +2,13 @@
 using Android.Widget;
 using Android.OS;
 using System;
-
+/*  my first android c# project it can have many bugs  */
+/*  i`ll fix this later                                */
+/*  build this using Xamarin and  Visual studio        */
+/*                                                     */
+/*                                                     */
+/*                                                     */
+/*                                                     */
 
 namespace PhysicsLab
 {
@@ -89,7 +95,8 @@ namespace PhysicsLab
                     {
                         speed_x[1] = 0;
                         speed_x[0] = 0;
-                    }//움직임 확인
+                    }//움직임 확인
+
                 }
             }
         }//센서 관련
