@@ -65,7 +65,7 @@ namespace PhysicsLab
                 float z = e.Values[2];
 
 
-                DateTime curtime = DateTime.Now;
+                DateTime curtime = DateTime.Millisecond;
                 if (hasUpdated == false)
                 {
                     hasUpdated = true;
